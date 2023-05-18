@@ -1,0 +1,110 @@
+/* My first ever style page, an attempt to learn more about CSS */ 
+
+.topnav {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.tabbycat1 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.avatar {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.registerimg {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+.intropic {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logincontainer {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.button {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+h1 {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h3 {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+	
+}
+
+h4 {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+body {
+	background-color: lightblue;
+	min-height: 97vh;
+  	display: flex;
+  	flex-direction: column;
+}
+
+p {
+	color: darkblue;
+	font-family: sans-serif;
+	text-align: center;
+	
+}
+
+ul, ol {
+	font-family: sans-serif;
+	text-align: center;
+	color: darkblue;
+	list-style-position: inside;
+}
+
+li { 
+	font-family: sans-serif;
+	text-align: center;
+	color: darkblue;
+	}
+
+footer {
+	margin-top: auto;
+	clear: both;
+	text-align: center;
+	color: darkblue;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 14px;
+}
+
